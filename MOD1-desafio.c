@@ -37,7 +37,7 @@ int main() {
         printf("Digite a quantidade de tropas: ");
         scanf("%d", &territorios[i].tropas);
 
-        printf("\nTerritorio cadastrado com SUcesso!\n\n");
+        printf("\nTerritorio cadastrado com Sucesso!\n\n");
     }
 
     // Exibição de todos os territórios cadastrados
